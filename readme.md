@@ -1,2 +1,2 @@
 # Coursera - Applied data science with python specialization
-Course materials and assignments
+Material de la especializción y trabajos prácticos
